@@ -12,5 +12,5 @@ license_text: T-Mobile
 categories:
   - Smart Watches
 tags:
-  - Apple 
+  - Wearable Ergonomics Wheel
 ---
