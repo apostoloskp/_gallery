@@ -2,12 +2,15 @@
 author: p15kabl
 title: Apple SmartWatch Series 6
 year: 2020
-image_url: /images/active-badge.jpg
-caption: 'Το Active Badge που υλοποιήθηκε από το ερευνητικό εργαστήριο Olivetti είναι από τα πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου.'
+image_url: /images/blob/master/apple-smartwatchs6.png
+caption: 'Το νέο Apple Watch Series 6 πρόκειται για την 6η γενιά smartwatch της εταιρείας δίνοντας έμφαση σημασία στην υγεία 
+και σε μια πιο ενεργή καθημερινότητα. Μέτρησε το οξυγόνο στο αίμα σου με ένα νέο αισθητήρα. Κάνε ηλεκτροκαρδιογράφημα όπου κι αν βρίσκεσαι.
+Επιλέξτε τρέξιμο, κολύμβηση, γιόγκα, ποδηλασία ή σχεδόν οποιαδήποτε άσκηση προτιμάτε και ξεκινήστε να καταγράφετε κάθε σας κίνηση. 
+Δες τις αθλητικές σου επιδόσεις με μια ματιά στην αναβαθμισμένη οθόνη Always-On Retina.'
 license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
-license_text: Courtesy of Deutsches Museum
+license_text: Verizon
 categories:
-  - Αρχέτυπα 
+  - Smart Watches
 tags:
-  - Olivetti 
+  - Apple 
 ---
