@@ -2,7 +2,7 @@
 author: p15kabl
 title: Apple SmartWatch Series 6
 year: 2020
-image_url: /images/blob/master/apple-smartwatchs6.png
+image_url: /images/blob/master/apple-smartwatchs6.jpg
 caption: 'Το νέο Apple Watch Series 6 πρόκειται για την 6η γενιά smartwatch της εταιρείας δίνοντας έμφαση σημασία στην υγεία 
 και σε μια πιο ενεργή καθημερινότητα. Μέτρησε το οξυγόνο στο αίμα σου με ένα νέο αισθητήρα. Κάνε ηλεκτροκαρδιογράφημα όπου κι αν βρίσκεσαι.
 Επιλέξτε τρέξιμο, κολύμβηση, γιόγκα, ποδηλασία ή σχεδόν οποιαδήποτε άσκηση προτιμάτε και ξεκινήστε να καταγράφετε κάθε σας κίνηση. 
